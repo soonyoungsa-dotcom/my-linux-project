@@ -1,5 +1,5 @@
 def main():
-    print("Version 2 - experimenting with Git")
+    print("Git + WSL + VS Code working")
 
 if __name__ == "__main__":
     main()
